@@ -1,0 +1,18 @@
+{
+  "name": "full-cmd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord-bot-maker": "^0.2.2",
+    "discord.js": "^12.5.1",
+    "install": "^0.13.0",
+    "npm": "^7.6.1"
+  }
+}
